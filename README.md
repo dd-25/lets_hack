@@ -34,9 +34,12 @@
 
 ---
 
-## 📁 License
+---
 
-This project is licensed for personal use and **not intended for commercial or malicious use**. You are free to view the code and learn from it, but do so responsibly.
+## 📜 License
+
+Licensed under a modified [MIT License](./LICENSE) — for **personal and educational use only**.  
+Please do not use this app for commercial, malicious, or unauthorized purposes.
 
 ---
 
